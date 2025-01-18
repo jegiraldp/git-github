@@ -1,5 +1,7 @@
 Un ajuste hecho por mi jegiraldp
 
+cambio hecho desde github
+
 # Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
