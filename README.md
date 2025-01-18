@@ -5,7 +5,7 @@ Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
 Los proyectos son los siguientes:
 
 ## Plantilla web para presentación
-
+un ajuste jegiraldp
 Una muy colorida plantilla HTML básica para lograr una muy buena presentación y llevar a tu audiencia a todos tus canalaes sociales.
 
 Puedes verla [aquí](/miSitio/).
