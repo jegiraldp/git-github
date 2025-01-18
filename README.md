@@ -2,6 +2,8 @@ Un ajuste hecho por mi jegiraldp
 
 cambio hecho desde github
 
+otro cambio hecho en github
+
 # Contenido de este repositorio
 
 Este repo cuenta con tres proyectos que usarás para tu curso de Git y Github.
