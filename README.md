@@ -1,8 +1,4 @@
-Un ajuste hecho por mi jegiraldp
-
-cambio hecho desde github
-
-otro cambio hecho en github
+Ajustado hoy 19 enero 2025
 
 # Contenido de este repositorio
 
